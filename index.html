@@ -10,51 +10,18 @@
 	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive.css">
 	<link rel="icon" href="images/fav.png">
-	
-	<style> 
-				.box { 
-					margin: 20px; 
-					border: 1px dotted; 
-					height: 100px; 
-					width: 100px; 
-					background-color: lightgreen; 
-					display: none; 
-				} 
-		  
-				/* Check if the screen size is at least 600px */ 
-				@media only screen and (min-width: 600px) { 
-					.lg { 
-						display: block; 
-					} 
-				} 
-		  
-				/* check if the screen size is at least 400px */ 
-				@media only screen and (min-width: 400px) { 
-					.md { 
-						display: block; 
-					} 
-				} 
-		  
-				/* check if the screen size is at least 100px */ 
-				@media only screen and (min-width: 100px) { 
-					.sm { 
-						display: block; 
-					} 
-				} 
-			</style>
-
-</head>
+	</head>
 <body>
 	<div class="row m-0 p-0 " style="background:white;">
 		<div class="container-fluid "style="background:#23384e;" >
 			<div class="row py-2">
 				<div class="col-12 col-md-6 text-center text-md-left " style="">
 			<a href="index.html">
-				<img src="images/besthempguide-color-white.png" class="img-fluid" style="width: 50%;">
+				<img src="images/footer-logo.png" class="img-fluid" style="width: 45%;">
 			</a>
 			</div>
 			<!-- logo side end -->
-			<div class="col-12 col-md-3 pt-3 text-center  social-icons text-center ">
+			<div class="col-12 col-md-3 pt-3 text-center  social-icons text-center" id="title_message">
 					<ul class="pl-0">
 						<li>
 							<a target="_blank" href="https://www.facebook.com/shopcbdmall/">
@@ -118,14 +85,8 @@
 		<div class="col-12 col-md-12 forboxes pb-5 m-0 p-0">
 			<h2 class="text-center" style="margin-top: 30px;">Why Best Hemp Guide?</h2>
 
-			<div class="row" style="text-align: center; margin-left: 10%;margin-right: 10%; display: inline-block;">
-				<div class="firstcard text-center col-md-6" style="margin-right: 20px;">
-					<p class="card-text" style="padding-top: 25px; padding-bottom: 44px;">
-						Exclusive coupons to help you save money!
-					</p>
-					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
-				</div>
-					<!-- card 1 end -->
+			<div class="row" style="margin-left: 14%; margin-right: 10%; display: inline-block;">
+
 				<div class="firstcard text-center" style="margin-right: 20px;">
 					<p class="card-text"  style="padding-top: 20px; padding-bottom: 25px;">
 						Expert advice and recommendations from real Hemp users!
@@ -134,14 +95,14 @@
 				</div>
 					<!-- card 2 end -->
 				<div class="firstcard text-center col-md-6" style="margin-right: 20px;">
-					<p class="card-text"  style="padding-top: 20px;padding-bottom: 5px;">
+					<p class="card-text"  style="padding-top: 20px;">
 						Regular Updates - We're regularly updating our reviews and rankings!
 					</p>
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
 				</div>
 					<!-- card 3 end -->
 				<div class="firstcard text-center col-md-6">
-					<p class="card-text"  style="padding-top: 20px; padding-bottom: 28px;">
+					<p class="card-text"  style="padding-top: 20px;">
 						100% Independent! Brands can’t pay for reviews or placement!
 					</p>
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 20%; padding-bottom: 20px;">
@@ -166,9 +127,9 @@
 						<span class="yellowstar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(11783)</span>
+					<span class="totalrating d-block mb-4">(8783) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						9.9
+						9.8
 					</span>
 					<span class="excellent d-block mt-4">
 						<b>Excellent</b>
@@ -187,7 +148,7 @@
 						<li>Fast & Free 2-day shipping.</li>
 						<li>Over 100 products to choose from.</li>
 						<li>Full spectrum, broad spectrum and isolate options.</li>
-						<li>•	Great Value! The lowest prices in the industry for quality hemp extract!</li>
+						<li>Great Value! The lowest prices in the industry for quality hemp extract!</li>
 					</ul>
 				</div>
 				<!--description  section end -->
@@ -226,9 +187,9 @@
 						<span class="yellowstar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(10878)</span>
+					<span class="totalrating d-block mb-4">(8126) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						9.7
+						9.6
 					</span>
 					<span class="excellent d-block mt-4">
 						<b>Excellent</b>
@@ -286,9 +247,9 @@
 						<span class="yellowstar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(10982)</span>
+					<span class="totalrating d-block mb-4">(8009) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						9.6
+						9.5
 					</span>
 					<span class="excellent d-block mt-4">
 						<b>Very Good</b>
@@ -344,12 +305,12 @@
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
-						<span class="yellowstar">&#9733</span>
+						<span class="graystar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(9783)</span>
+					<span class="totalrating d-block mb-4">(6290) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						9.4
+						8.9
 					</span>
 					<span class="excellent d-block mt-4">
 						<b>Very Good</b>
@@ -403,12 +364,12 @@
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
-						<span class="yellowstar">&#9733</span>
+						<span class="graystar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(10133)</span>
+					<span class="totalrating d-block mb-4">(8044) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						9.2
+						8.4
 					</span>
 					<span class="excellent d-block mt-4">
 						<b>Very Good</b>
@@ -464,15 +425,15 @@
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
-						<span class="yellowstar">&#9733</span>
+						<span class="graystar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(12783)</span>
+					<span class="totalrating d-block mb-4">(9728) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						9.1
+						8.1
 					</span>
 					<span class="excellent d-block mt-4">
-						<b>Very Good</b>
+						<b>Good</b>
 					</span>
 				</div>
 				<!-- left logo section end -->
@@ -521,13 +482,13 @@
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
 						<span class="yellowstar">&#9733</span>
-						<span class="yellowstar">&#9733</span>
-						<span class="yellowstar">&#9733</span>
+						<span class="graystar">&#9733</span>
+						<span class="graystar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(7133)</span>
+					<span class="totalrating d-block mb-4">(6451) Reviews</span>
 					<span class="averagenbr p-3 text-white">
-						7.6
+						7.8
 					</span>
 					<span class="excellent d-block mt-4">
 						<b>Fair</b>
@@ -574,7 +535,7 @@
 
 
 		<div class="col-12 col-md-12 description pb-3 bg-white">
-			<h2 class="number py-2">#6</h2>
+			<h2 class="number py-2">#8</h2>
 			<div class="row px-md-0">
 				<div class="col-12 col-md-3 col-lg-3 mb-3 text-center">
 					<img src="images/hempbombs.png" class="img-fluid logoimage" alt="hempbombs Logo">
@@ -586,7 +547,7 @@
 						<span class="graystar">&#9733</span>
 					</div>
 					<!-- rating end -->
-					<span class="totalrating d-block mb-4">(2783)</span>
+					<span class="totalrating d-block mb-4">(3672) Reviews</span>
 					<span class="averagenbr p-3 text-white">
 						7.4
 					</span>
@@ -654,7 +615,7 @@
 		<div class="col-12 py-5 col-md-12 px-2 px-md-5 footer">
 			<div class="row">
 				<div class="col-12 col-md-3">
-					<a href="index.html"><img src="images/besthempguide-white.png" class="img-fluid"></a>
+					<a href="index.html"><img src="images/footer-logo.png" class="img-fluid"></a>
 				</div>
 				<!-- logo part end -->
 				<div class="col-12 col-md-6">
