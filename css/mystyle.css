@@ -1,0 +1,222 @@
+body{
+	/*background:#f2f2f2;*/
+	margin:0;
+	padding:0;
+	font-family: montserrat, sans-serif
+}
+.thiscontaner{
+	background:transparent!important;
+}
+.header{
+	background: #23384e;
+}
+
+.container{
+	background: white;
+}
+.forfirstp{
+	font-size:20px;
+}
+.firstcardd{
+	margin-left: 20px;
+	margin-right: 20px;
+	color: black!important;
+	box-shadow: #23384e 0px 0px 6px 0px;
+	border-radius: 50px;
+	text-align: center;
+	min-height: 100px;
+	margin-top: 20px;
+}
+
+.firstcard, .secondcard, .thirdcard, .fourthcard{
+	color: black!important;
+	box-shadow: #4abd4c 0px 0px 6px 1px;
+	border-radius: 40px;
+	text-align: center;
+	min-height: 110%;
+	margin-top: 20px;
+	margin-right: 0%;
+	margin-left: 30px;
+	max-width: 230px;
+	width: 230px;	
+	display: inline-block;
+	}
+	
+.card-text1{
+	font-size: 100%;
+	line-height:25px;
+	color: black;
+	margin-top: 22px;
+	margin-bottom: 90px;
+	padding-bottom: 25px;
+	margin-right: 8px;
+	margin-left: 8px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.card-text{
+	font-size:17px;
+	line-height:25px;
+	color:black;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+.description{
+	background:#f4f4f4;#f1f1f1;
+	padding:0px;
+}
+.number{
+	background: rgb(46,171,117);
+	clip-path: polygon(0% 0%, 100% 0, 100% 0, 75% 100%, 0% 100%);
+	display: inline-block;
+	margin-top:0px;
+	padding:10px;
+	padding-right:100px;
+	font-size:25px;
+	box-sizing:border-box;
+	color:white;
+
+}
+.logoimage{
+	max-width:160px;
+}
+.yellowstar{
+	color: #ffcc00;
+	font-size:25px;
+}
+.graystar{
+
+	color: gray;
+	font-size:25px;
+}
+.totalrating{
+	color:#9d9a9a;
+}
+.averagenbr{
+	background:rgb(46,171,117);
+}
+.pro-descr{
+	font-size:14px;
+}
+.pro-de ul li{
+	font-size:12px;
+}
+.main-link{
+	background: rgba(255, 64, 64, 1) url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/shiny2button_bg.png) center top repeat-x;
+	border: solid rgba(249, 182, 180, 1) 0px;
+	text-align: initial;
+	color:white;
+	border-radius: 5px;
+	padding:20px 50px;
+	border-radius: 4px;
+	font-size:20px;
+	min-width: 150px;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+.main-link:hover{
+	background:rgb(46,171,117);
+	color:white;
+	text-decoration: none;
+}
+
+@media only screen and (max-width: 992px) {
+	.main-link{
+		color: white;
+		padding: 20px 30px;
+		}
+}
+
+.coupon-box{
+	border-radius: 10px;
+	background: white;
+	width: 60%;
+	margin:0 auto;
+	margin-top:50px;
+	box-shadow:0px 0px 10px 1px #4abd4c;
+}
+
+.red{
+	color:#fc736b;
+	font-size:17px;
+
+}
+.footer{
+	background:black;
+	color:white;
+}
+
+.forhr{
+	display: block;
+	width:10%;
+	margin:0 auto;
+	height: 6px;
+	background-color: #191970;
+	border: 0;
+	border:none;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.conectwithus{
+	text-transform: capitalize;
+	text-shadow:1px 1px 3px rgb(46,171,117);
+}
+.social-icons ul li{
+	list-style: none;
+	display: inline;
+}
+.social-icons ul li i{
+	padding:0px;
+	font-size:20px;
+	width:30px;
+	height:30px;
+	background: #3f63d9;
+	line-height:30px;
+	color:white;
+	border-radius:100%;
+	text-align: center;
+}
+.social-icons ul li a:hover{
+	text-decoration:none;
+}
+
+
+.social-icons-2 ul li i:hover{
+	background:#fc736b;;
+}
+.social-icons-2 ul li{
+	list-style: none;
+	margin-bottom:10px;
+}
+.social-icons-2 ul li i{
+	padding:0px;
+	font-size:20px;
+	width:30px;
+	height:30px;
+	background: #3f63d9;
+	line-height:30px;
+	color:white;
+	text-align:center;
+}
+.social-icons-2 ul li a:hover{
+	text-decoration:none;
+	color:#fc736b;
+}
+.social-icons-2 ul li i:hover{
+	background:#fc736b;
+}
+.footertext{
+	font-size:15px;
+}
+.main-footer{
+	width: 100%;
+	background: gray;
+	color:white;
+}
+.row{
+	margin:0px;
+	padding:0px;
+}
