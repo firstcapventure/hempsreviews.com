@@ -35,10 +35,10 @@ body{
 	text-align: center;
 	min-height: 110%;
 	margin-top: 20px;
-	margin-right: 0%;
-	margin-left: 30px;
-	max-width: 230px;
-	width: 230px;	
+	margin-right: 50px;
+	margin-left: 50px;
+	max-width: 350px;
+	width: 250px;	
 	display: inline-block;
 	}
 	
@@ -87,8 +87,9 @@ body{
 	color: #ffcc00;
 	font-size:25px;
 }
-.graystar{
 
+
+.graystar{
 	color: gray;
 	font-size:25px;
 }
@@ -220,6 +221,7 @@ body{
 	margin:0px;
 	padding:0px;
 }
+
 
 @media screen and (max-width: 750px) {
 	#title_message {
