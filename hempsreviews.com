@@ -89,7 +89,7 @@
 				
 				<div class="firstcard text-center" style="margin-right: 20px;">
 					<p class="card-text"  style="padding-top: 22px;">
-						Expert advice and recommendations from real Hemp users!
+						Expert advice and recommendations from real Hemp Extract users!
 					</p>
 					<img src="images/plant.png" class="img-fluid logoimage" style="width: 18%; padding-bottom: 20px;">
 				</div>
